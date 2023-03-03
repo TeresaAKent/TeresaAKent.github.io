@@ -14,6 +14,7 @@ Files Available-
     * Output of predicted whisker bending from the quasistatic simulator developed at northwestern university in the Sense Lab
     * Analysis on the sensitivity of acrylic cut springs to forces produced by whisker bending
 
+_Kent, T. A., Emnett, H., Babaei, M., Hartmann, M. J., & Bergbreiter, S. (2023). Identifying Contact Distance Uncertainty in Whisker Sensing with Tapered, Flexible Whiskers. International Conference on Robotics and Automation_
 
 
 # Whisksight: A reconfigurable, vision-based, optical whisker sensing array for simultaneous contact, airflow, and inertia stimulus detection
@@ -25,3 +26,5 @@ Files Available-
 1. Code which converts recorded video from the sensor into labeled stimuli types, csv files with analyzed data, and helper videos
 2. One video which was analyzed during testing
 3. Helper function for creating the video outputs
+
+_Kent, T. A., Kim, S., Kornilowicz, G., Yuan, W., Hartmann, M. J., & Bergbreiter, S. (2021). Whisksight: A reconfigurable, vision-based, optical whisker sensing array for simultaneous contact, airflow, and inertia stimulus detection. IEEE Robotics and Automation Letters, 6(2), 3357-3364_
