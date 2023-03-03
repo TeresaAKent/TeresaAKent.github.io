@@ -11,9 +11,8 @@ This is a github repository for the code used to develop whisker-inspired sensor
 Files Available-
 1. Code implementation of the tracking algorithm which converts a test video into a csv file of the motion of tracked points
 2. Code to preform analysis on the components of the sensor including
-  1.Output of predicted whisker bending from the quasistatic simulator developed at northwestern university in the Sense Lab
-  2.Analysis on the sensitivity of acrylic cut springs to forces produced by whisker bending
-3.
+    * Output of predicted whisker bending from the quasistatic simulator developed at northwestern university in the Sense Lab
+    * Analysis on the sensitivity of acrylic cut springs to forces produced by whisker bending
 
 
 
